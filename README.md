@@ -1,8 +1,6 @@
 YouTubeToMP4 by LorenzoProjex
 
-Welcome to the README.md file. 
-
-My name is Tom Lorenzo and this is my first Python project. 
+Welcome to the README.md file.  
 
 We all start from somewhere, so please don't expect this to be a revolutionary product any time soon. 
 
